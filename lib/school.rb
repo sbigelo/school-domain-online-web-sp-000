@@ -20,7 +20,10 @@ class School
   end
   
   def sort
-  roster
+  sorted = {}
+  
+    end
+  sorted
   end
   
 end
