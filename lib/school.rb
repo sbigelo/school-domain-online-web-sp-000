@@ -20,9 +20,7 @@ class School
   end
   
   def sort
-  roster.each do |key|
-    key.to_a.sort
-    end
+  roster
   end
   
 end
